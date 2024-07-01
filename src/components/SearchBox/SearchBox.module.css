@@ -1,0 +1,13 @@
+.searchBox {
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: fit-content;
+}
+.inputSearch:hover {
+  border-color: emerald;
+}
+.inputSearch:focus {
+  border-color: emerald;
+  outline: none;
+}

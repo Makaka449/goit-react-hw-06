@@ -1,0 +1,8 @@
+.listUser {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; 
+  justify-content: center; 
+  padding: 10px; 
+  border-radius: 8px; 
+}

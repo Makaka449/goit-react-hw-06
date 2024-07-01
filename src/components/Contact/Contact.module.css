@@ -1,0 +1,28 @@
+.contact {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #006400; 
+  border-radius: 8px; 
+  padding: 10px; 
+  align-items: center;
+  gap: 20px; 
+  width: 320px; 
+  box-shadow: 0 4px 8px rgba(0, 100, 0, 0.2); 
+}
+
+.icon {
+  padding-right: 8px; 
+}
+
+.btn {
+  background-color: #2E8B57; 
+  color: white; 
+  border-color: #006400; 
+  padding: 8px 16px; 
+  border-radius: 4px; 
+  transition: background-color 0.3s; 
+}
+
+.btn:hover {
+  background-color: #228B22; 
+}
